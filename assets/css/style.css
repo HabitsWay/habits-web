@@ -5752,7 +5752,7 @@ z .slider-area .hero-cap h2 {
     font-size: 50px;
     font-weight: 700;
     line-height: 1.2;
-    margin-bottom: 90px
+    margin-bottom: 60px
 }
 
 @media (max-width: 767px) {
@@ -5988,6 +5988,15 @@ z .slider-area .hero-cap h2 {
 
 .best-pricing {
     position: relative
+}
+
+.best-pricing.description {
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+.best-pricing.description h3 {
+    color: #fff
 }
 
 .best-pricing.pricing-padding {
